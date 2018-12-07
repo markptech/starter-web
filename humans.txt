@@ -4,6 +4,7 @@
 # TEAM
 
     <name> -- <role> -- <twitter>
+	John Doe  Developer @jd
 
 # THANKS
 
